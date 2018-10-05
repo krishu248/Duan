@@ -9,7 +9,7 @@
 <!-- in the project's Project Properties dialog box.-->
 <project name="DuanJSP" default="default" basedir=".">
     <description>Builds, tests, and runs the  project DuanJSP.</description>
-    <import file="nbproject/build-impl.xml"/>
+    <import file="nbproject/build-impl.xml"/> 
     <!--sdsa
 
     There exist several targets which are by default empty and which can be 
@@ -65,7 +65,7 @@
     Notice that overridden target depends on jar target and not only on 
     compile target as regular run target does. Again, for list of available 
     properties which you can use check the target you are overriding in 
-    nbproject/build-impl.xml file. 
+    nbproject/build-impl.xml  file. 
 
     -->
 </project>
